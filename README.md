@@ -1,4 +1,3 @@
 # adisec
-This is my Static website 
-
+Hello Folks this is my Static Site 
 All Rights of code belongs to Internet :)
