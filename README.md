@@ -1,4 +1,4 @@
 # adisec
-Hello Folks this is my Static Site 
+An Secure Static Site made in html,css,js,bootstrap,and jquary.
 
-All Rights of code belongs to Internet :)
+All Rights of code belongs to Me :)
